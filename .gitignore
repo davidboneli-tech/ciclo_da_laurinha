@@ -1,1 +1,18 @@
-# Portfólio público
+# Dados pessoais e arquivos do aplicativo não fazem parte deste portfólio
+*.apk
+*.aab
+*.jks
+*.keystore
+*.json
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+local.properties
+*.log
+.gradle/
+build/
+captures/
+screenshots/
+backups/
+dados_pessoais/
