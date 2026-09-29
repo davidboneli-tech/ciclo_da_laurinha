@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/capa.svg" alt="Ciclo da Laurinha — uma flor delicada em tons de rosa e lavanda" width="760">
+<img src="assets/capa.svg" alt="Meu Jeitinho — uma flor delicada em tons de rosa e lavanda" width="760">
 
 ### Um cantinho para acompanhar cada fase, com carinho e simplicidade.
 
@@ -14,7 +14,7 @@
 
 ## 💌 Como nasceu
 
-Criei o **Ciclo da Laurinha** pensando na minha filha. Ao procurar um aplicativo para uma pré-adolescente começar a acompanhar o ciclo menstrual, encontrei opções que incluíam assuntos e campos sobre sexualidade e gravidez. Eu queria, para este momento da vida dela, uma experiência mais simples, acolhedora e adequada ao que nossa família precisava.
+Criei o **Meu Jeitinho** pensando na minha filha. Ao procurar um aplicativo para uma pré-adolescente começar a acompanhar o ciclo menstrual, encontrei opções que incluíam assuntos e campos sobre sexualidade e gravidez. Eu queria, para este momento da vida dela, uma experiência mais simples, acolhedora e adequada ao que nossa família precisava.
 
 Daí nasceu um espaço para registrar datas, sentimentos e pequenas anotações do dia a dia. A proposta é ajudar a Laurinha a se organizar e se conhecer, no seu tempo, com privacidade e sem publicidade.
 
