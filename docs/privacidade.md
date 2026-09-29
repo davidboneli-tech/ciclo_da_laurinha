@@ -1,6 +1,6 @@
 # Privacidade e limites 🌷
 
-O Ciclo da Laurinha foi criado para uso pessoal e offline. A versão V11 consultada guarda ciclos e registros diários em armazenamento local do aplicativo e oferece exportação manual para um arquivo JSON escolhido no dispositivo.
+O Meu Jeitinho foi criado para uso pessoal e offline. A versão V11 consultada guarda ciclos e registros diários em armazenamento local do aplicativo e oferece exportação manual para um arquivo JSON escolhido no dispositivo.
 
 ## Ao criar ou restaurar um backup
 
